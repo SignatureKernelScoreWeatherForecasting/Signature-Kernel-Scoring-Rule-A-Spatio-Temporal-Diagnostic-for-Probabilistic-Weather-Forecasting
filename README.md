@@ -6,7 +6,7 @@ This section contains the training procedures and results for signature kernel p
 
 All model results across learning rate can be found directly in results/nets/calibration_metrics_SignatureKernel_{lr}.txt
 
-To recacalculate Training and Evaluation, run the run.sh and runEvaluation.sh respectively, learning rate may be parsed.
+To recalculate Training and Evaluation, run the run.sh and runEvaluation.sh respectively, learning rate may be parsed.
 
 Each model may take up to 48 hours to run, with most taking under 24 hours, and evaluation taking up to 2 hours on ***** HPC clusters. 
 
