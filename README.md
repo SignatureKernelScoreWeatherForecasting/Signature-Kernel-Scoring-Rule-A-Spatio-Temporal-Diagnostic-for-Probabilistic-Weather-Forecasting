@@ -2,8 +2,8 @@
 This repository contains three sections, Model Training, Deterministic Scorecard, and Probabilistic Scorecard.
 
 This project was developed on Windows 10 and adapted to CentOS 8 for model training on HPC clusters. 
-To train on CentOS use the requirements_hpc.txt file.
-To create the scorecards and simulation figures on Windows use the environment.yml file.
+To train on CentOS, use the requirements_hpc.txt file.
+To create the scorecards and simulation figures on Windows, use the environment.yml file.
 ## Model Training
 
 This section contains the training procedures and results for signature kernel patch training on ERA5 reanalysis 64x32.
